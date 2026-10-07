@@ -24,5 +24,5 @@ Cybersecurity Engineer | Passionate about SOC analysis, threat detection, and se
 * **Automation & SOAR**
 * **Analysis**
 * **Penetration Testing**
-  ## 📚 Currently Learning & Tools Explored
+## 📚 Currently Learning & Tools Explored
 * **AI-Powered Pentesting:** Exploring NeuroSploit v2 for automated target analysis and vulnerability assessment on test environments.
