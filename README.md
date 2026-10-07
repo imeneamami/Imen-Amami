@@ -20,9 +20,9 @@ Cybersecurity Engineer | Passionate about SOC analysis, threat detection, and se
 ---
 
 ## 💻 Tech Stack & Tools
-* **SIEM XDR / EDR** 
+* **Threat Detection & Response**
 * **Automation & SOAR**
-* **Analysis**
+* **Malware Analysis**
 * **Penetration Testing**
 ## 📚 Currently Learning & Tools Explored
 * **AI-Powered Pentesting:** Exploring NeuroSploit v2 for automated target analysis and vulnerability assessment on test environments.
