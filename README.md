@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Imen Amami
 
 <p align="left">
-  <a href="رابط_لينكيدإن_الخاص_بك" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/imen-amami-207514254" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/imeneamami" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
