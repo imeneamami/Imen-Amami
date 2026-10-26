@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
+  <img src="cyber-shield.svg" width="520" alt="Cybersecurity terminal animation" />
 </p>
 
 <!-- ================= BADGES ================= -->
