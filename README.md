@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Imen Amami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+🛡️;SOC+Analyst+%26+Threat+Hunter;Passionate+about+Malware+Analysis+%26+SOAR;Always+learning+%26+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+🛡️;Purple+Team+%26+Threat+Hunting;Ethical+Hacking+%26+Malware+Analysis;Automation+%26+SOAR+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,27 +15,27 @@
 
 ---
 
-### 🛡️ Featured Cybersecurity Projects
+### 🛡️ Featured Cybersecurity & Ethical Hacking Projects
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[SOC Lab - Wazuh SIEM](https://github.com/imeneamami)** | Real-time threat detection and SIEM log analysis lab. | `Wazuh`, `Ubuntu`, `Kali Linux` |
-| **[Sandbox Environment](https://github.com/imeneamami)** | Environment configured for dynamic malware analysis. | `Volatility`, `Yara`, `VirusTotal` |
+| **[Malware Sandbox Environment](https://github.com/imeneamami)** | Automated environment configured for dynamic malware analysis. | `Volatility`, `Yara`, `VirusTotal` |
 | **[SOAR & EDR Project](https://github.com/imeneamami)** | Automated security orchestration, response, and endpoint detection. | `LimaCharlie`, `Tines`, `Python` |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ethical Hacking Tools
 
 * **Threat Detection & SIEM:** `Wazuh SIEM/XDR`, `Suricata`
 * **Malware Analysis & Forensics:** `Volatility`, `Yara Rules`, `VirusTotal`
-* **Automation & SOAR:** `Python`, `LimaCharlie`, `Tines`
-* **OS & Testing:** `Linux (Ubuntu / Kali Linux)`, `Hydra`, `Wireshark`
+* **Ethical Hacking & Testing:** `Kali Linux`, `Hydra`, `Wireshark`
+* **Automation & SOAR:** `Python`, `LimaCharlie`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imeneamami&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imeneamami&show_icons=true&theme=purple-dark&hide_border=true" />
 </p>
